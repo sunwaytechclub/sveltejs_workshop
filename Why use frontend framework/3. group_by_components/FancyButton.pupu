@@ -1,0 +1,7 @@
+<style>
+  button {
+    background-color: blue;
+  }
+</style>
+
+<button>Fancy Button</button>
