@@ -6,7 +6,7 @@ Strongly recommend you to take a look at [https://github.com/kamranahmedse/devel
 
 > Do checkout [Sveltejs Tutorials](https://svelte.dev/tutorial), best-ever tutorial online!
 
-[Slides](https://slides.com/rainchai/sveltejs/fullscreen#/14) (Or clond this repo and open slides-sveltejs.html!)
+[Slides](https://slides.com/rainchai/sveltejs/fullscreen) (Or clond this repo and open slides-sveltejs.html!)
 
 ## 📝 Table of Contents
 
