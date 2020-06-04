@@ -1,7 +1,7 @@
 <script>
-  import Button from "./components/Button.Button";
-  import MediumButton from "./components/MediumButton.Button";
-  import BigButton from "./components/BigButton.Button";
+  import Button from "./components/Button.svelte";
+  import MediumButton from "./components/MediumButton.svelte";
+  import BigButton from "./components/BigButton.svelte";
 </script>
 
 <Button />
