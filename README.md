@@ -19,4 +19,4 @@ Strongly recommend you to take a look at [https://github.com/kamranahmedse/devel
 - [Props! Let your parents take control their children!](https://svelte.dev/tutorial/declaring-props)
 - [A simple counter button!](#reactivity)
 - [Binding data, using range input](https://svelte.dev/tutorial/text-inputs)
-- [More to explore!](#etc)
+- [More to explore!](https://github.com/kamranahmedse/developer-roadmap)
