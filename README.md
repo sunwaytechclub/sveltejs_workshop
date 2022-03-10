@@ -56,3 +56,17 @@ What it means is, SvelteJS will compile your code into plain JavaScript, while R
 ## Let's get dirty (demo)
 
 It's easier to see it in action, let's get started!
+We will be looking into these modules:
+
+**Basic**: Create a simple TODO app [https://putodo.netlify.app/](https://putodo.netlify.app/)
+1. [Adding data](https://svelte.dev/tutorial/adding-data)
+2. [Dynamic attributes](https://svelte.dev/tutorial/dynamic-attributes)
+3. [Styling](https://svelte.dev/tutorial/styling)
+4. [Import / export](https://svelte.dev/tutorial/nested-components)
+5. [Conditional logic / control flow](https://svelte.dev/tutorial/nested-components)
+6. [Handling DOM events](https://svelte.dev/tutorial/nested-components)
+
+**Advance**
+7. [Lifecycle](https://svelte.dev/tutorial/onmount)
+8. [Stores](https://svelte.dev/tutorial/writable-stores)
+9. [Slots](https://svelte.dev/tutorial/slots)
